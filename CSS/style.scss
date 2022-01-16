@@ -52,6 +52,7 @@ border:1px solid $hover;
   & .logo img {
     height: 7.5vh;
     margin-bottom: 10px;
+      box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   }
   & .attribution{
     text-align: center;
